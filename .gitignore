@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/*.keras
+outputs/*.tflite
+webots_images/
+.DS_Store
